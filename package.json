@@ -1,0 +1,18 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1-a",
+  "description": "hello-world",
+  "main": "./helloworld3.js",
+  "dependencies": {
+    "asynquence": "^0.10.2",
+    "minimist": "~1.2.0",
+    "node-static": "^0.7.11",
+    "socket.io": "^2.1.1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "softhinkers <www.softhinkers.com>",
+  "license": "MIT"
+}
